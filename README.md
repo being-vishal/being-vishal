@@ -1,4 +1,4 @@
-
+<h1>Hi there <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" />, I am Vishal
 <h3>About Me🚀</h3>
 Currently, I'm<br>
 -in my freshman year🏫<br>
