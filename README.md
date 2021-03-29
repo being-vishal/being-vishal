@@ -6,8 +6,9 @@ Currently, I'm<br>
 -learning DS and Algo with Java and improving my web development <br>
  &nbsp;skills by my making cool projects.<br>
 -eager to join various Student Community Programs.<br>
-
-Skills: JAVA /C++/ JS / HTML / CSS
+<br>
+ <br>
+ <h2>Skills:</h2> JAVA /C++/ JS / HTML / CSS
 
 - 🌱 I’m currently learning JQuery 
 - 👯 I’m looking to collaborate on Web Projects 
