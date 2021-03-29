@@ -1,15 +1,8 @@
 <h1>Hi there <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40vw" />, I am Vishal
 <h3>About Me🚀</h3>
-Currently, I'm<br>
--in my freshman year🏫<br>
--exploring Open-Source<br>
--learning DS and Algo with Java and improving my web development <br>
- &nbsp;skills by my making cool projects.<br>
--eager to join various Student Community Programs.<br>
-<br>
- <br>
- <h2>Skills:</h2> <h5>JAVA , C++, JS , HTML /,CSS</h5>
 
+ 
+- 🏫 I,m in my freshman year
 - 🌱 I’m currently learning JQuery 
 - 👯 I’m looking to collaborate on Web Projects 
 - 🤔 I’m looking for help with Heroku 
