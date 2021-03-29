@@ -8,7 +8,7 @@ Currently, I'm<br>
 -eager to join various Student Community Programs.<br>
 <br>
  <br>
- <h2>Skills:</h2> JAVA /C++/ JS / HTML / CSS
+ <h2>Skills:</h2> <h5>JAVA , C++, JS , HTML /,CSS</h5>
 
 - 🌱 I’m currently learning JQuery 
 - 👯 I’m looking to collaborate on Web Projects 
