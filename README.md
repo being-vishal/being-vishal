@@ -1,5 +1,5 @@
-### Hi there 👋, I am Vishal
-#### About Me🚀
+
+<h3>About Me🚀</h3>
 Currently, I'm<br>
 -in my freshman year🏫<br>
 -exploring Open-Source<br>
