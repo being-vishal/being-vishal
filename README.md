@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my Frontend Web Development Skills.
 - 🌱 I’m currently learning Data Structures and Algoriths with Java 
 - 👯 I’m looking to collaborate on Web Projects 
-- 🤔 I’m looking for help with documentation. 
+- 🤔 I’m looking for help with Firebase. 
 - 💬 Ask me about Resources for learning Web Development , Roadmap 
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I am funny 
