@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I am funny 
 - 📫 Let's discuss How am I funny? or How funny I am? <br><br>
-&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-shinde-/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/being__vishal)  
+&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-shinde-/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/being__vishal)  
 
 
 
