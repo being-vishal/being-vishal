@@ -2,7 +2,7 @@
 <h3>About Me🚀</h3>
 
  
-- 🏫 I,m in my freshman year pursuing Bachelors in Computer Science & Engineering 
+- 🏫 I,m in sophomore year pursuing Bachelors in Computer Science & Engineering 
 - 🔭 I’m currently working on improving my Frontend Web Development Skills.
 - 🌱 I’m currently learning Data Structures and Algoriths with Java 
 - 👯 I’m looking to collaborate on Web Projects 
