@@ -1,4 +1,4 @@
-<h1>Hi there <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40vw" />, I am Vishal
+<h1>Hi there <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40" />, I am Vishal
 <h3>About Me🚀</h3>
 
  
