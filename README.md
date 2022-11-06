@@ -2,13 +2,13 @@
 <h3>About Me🚀</h3>
 
  
-- 🏫 I,m in sophomore year pursuing Bachelors in Computer Science & Engineering 
+- 🏫 I'm in junior year pursuing Bachelors in Computer Science & Engineering .
 - 🔭 I’m currently working on improving my Frontend Web Development Skills.
-- 🌱 I’m currently learning Data Structures and Algoriths with Java 
-- 👯 I’m looking to collaborate on Web Projects 
+- 🌱 I’m currently learning Data Structures and Algoriths with Java.
+- 👯 I’m looking to collaborate on Web Projects.
 - 🤔 I’m looking for help with Firebase. 
-- 💬 Ask me about Resources for learning Web Development , Roadmap 
-- 😄 Pronouns: He/Him/His 
+- 💬 Ask me about Resources for learning Web Development , Roadmap.
+- 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am funny 
 - 📫 Let's discuss How am I funny? or How funny I am? <br><br>
 &nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-shinde-/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/vishaltwts)  
