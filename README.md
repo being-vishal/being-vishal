@@ -5,9 +5,9 @@
 - 🏫 I'm in junior year pursuing Bachelors in Computer Science & Engineering .
 - 🔭 I’m currently working on improving my Frontend Web Development Skills.
 - 🌱 I’m currently learning Data Structures and Algoriths with Java.
-- 👯 I’m looking to collaborate on Web Projects.
-- 🤔 I’m looking for help with Firebase. 
-- 💬 Ask me about Resources for learning Web Development , Roadmap.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 🤔 I’m looking for help with web sockets. 
+- 💬 Ask me about Resources for learning Web Development ,Roadmap, Computer Science.
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am funny 
 - 📫 Let's discuss How am I funny? or How funny I am? <br><br>
