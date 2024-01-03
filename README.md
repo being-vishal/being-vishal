@@ -2,12 +2,12 @@
 <h3>About Me🚀</h3>
 
  
-- 🏫 I'm in junior year pursuing Bachelors in Computer Science & Engineering .
-- 🔭 I’m currently working on improving my Frontend Web Development Skills.
-- 🌱 I’m currently learning Data Structures and Algoriths with Java.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with web sockets. 
-- 💬 Ask me about Resources for learning Web Development ,Roadmap, Computer Science.
+- 🏫 I'm in senior year pursuing Bachelors in Computer Science & Engineering .
+- 🔭 I’m currently working on Generating Doodles using Text based inputs.
+- 🌱 I’m also improving my Data Structures and Algoriths skills with Java.
+- 👯 I’m looking to collaborate on NLP based Research Projects.
+- 🤔 I’m looking for help with Generative adversarial networks. 
+- 💬 Ask me about Resources for learning Web Development, Roadmap, Computer Science.
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am funny 
 - 📫 Let's discuss How am I funny? or How funny I am? <br><br>
