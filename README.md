@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am funny 
 - 📫 Let's discuss How am I funny? or How funny I am? <br><br>
-&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-shinde-/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/vishaltwts)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='gmail' height='40'>](mailto:itsvishal2417@gmail.com)
+&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-shinde-/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/chinu2417)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='gmail' height='40'>](mailto:itsvishal2417@gmail.com)
 
 
 <!---
