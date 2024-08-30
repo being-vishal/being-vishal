@@ -2,7 +2,7 @@
 <h3>About Me🚀</h3>
 
  
-- 🏫 I'm in senior year pursuing Bachelors in Computer Science & Engineering .
+- 🏫 I'm a grad student pursuing Masters in Computer Science.
 - 🔭 I’m currently working on Generating Doodles using Text based inputs.
 - 🌱 I’m also improving my Data Structures and Algoriths skills with Java.
 - 👯 I’m looking to collaborate on NLP based Research Projects.
